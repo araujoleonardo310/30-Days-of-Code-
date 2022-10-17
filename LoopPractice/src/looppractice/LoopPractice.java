@@ -38,9 +38,6 @@ public class LoopPractice {
     public static void main(String[] args) {
        practiceWhileLoop();
        practiceDoWhileLoop();
-       practiceForLoop();
-       
-       
-    }
-    
+       practiceForLoop();           
+    }    
 }
