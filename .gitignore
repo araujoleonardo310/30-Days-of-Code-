@@ -524,3 +524,5 @@ MigrationBackup/
 ## Package
 package-lock.json
 package.json
+/ArrayPractice/nbproject/private/
+/ArrayPractice/build/
